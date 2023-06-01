@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+
 import 'package:flutter_qr/pages/home_page.dart';
 import 'package:flutter_qr/pages/map_page.dart';
 
@@ -14,11 +15,11 @@ class MyApp extends StatelessWidget {
       title: 'Qr Reader',
       initialRoute: 'home',
       routes: {
-        'home':(_) => const HomePage(),
-        'map':(_) => const MapPage(),
+        'home': (_) => const HomePage(),
+        'map': (_) => const MapPage(),
       },
-      theme: ThemeData.light(
-        
+      theme: ThemeData(
+        primarySwatch: Colors.teal,
       ),
     );
   }
