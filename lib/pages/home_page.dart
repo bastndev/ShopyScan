@@ -1,4 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_qr/pages/address_page.dart';
+import 'package:flutter_qr/pages/maps_page.dart';
+// import 'package:flutter_qr/pages/address_page.dart';
+// import 'package:flutter_qr/pages/maps_page.dart';
 import 'package:flutter_qr/widgets/custom_navigatorbar.dart';
 import 'package:flutter_qr/widgets/scan_button.dart';
 
@@ -20,15 +24,33 @@ class HomePage extends StatelessWidget {
         ],
       ),
       // --- --- -- --- --- --- Body
-      body: const Center(
-        child: Text(
-          'Home Page',
-        ),
-      ),
+      body:  const _HomePageBody(),
       // --- --- --- --- --- Button Navigation Bar
       bottomNavigationBar: const CustomNavigatorBar(),
       floatingActionButton: const ScanButton(),
       floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
     );
+  }
+}
+// --- --- --- --- --- --- --- Home Page Body
+class _HomePageBody extends StatelessWidget {
+  const _HomePageBody();
+
+  @override
+  Widget build(BuildContext context) {
+
+    const currentIndex = 0;
+
+    switch( currentIndex){
+      
+      case 0:
+      return const MapsPage();
+
+      case 1: 
+      return const AddressPage();
+
+      default:
+      return const MapsPage();
+    }
   }
 }
