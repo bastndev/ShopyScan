@@ -1,15 +1,9 @@
 # QR App Flutter
 
-This project is currently under construction. 🚧
+This project is currently under construction. :building_construction:  	```:building_construction:```
 
-## Working 👷
+## Working 👷 :taco: ``:taco:``
 
-
-:taco: ``:taco:``
-
-:building_construction:  	```:building_construction:```
-
---------------------------------------
 :alien: ``:alien:``
 
 :apple: ``:apple:``
