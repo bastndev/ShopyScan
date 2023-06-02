@@ -1,10 +1,9 @@
 # QR App Flutter
 
-A new Flutter project.
+This project is currently under construction. 🚧
 
 ## Working 👷
 
-This project is a starting point for a Flutter application.
 
 :taco: ``:taco:``
 
