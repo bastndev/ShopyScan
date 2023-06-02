@@ -1,10 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_qr/pages/address_page.dart';
 import 'package:flutter_qr/pages/maps_page.dart';
+import 'package:flutter_qr/providers/ui_provider.dart';
 // import 'package:flutter_qr/pages/address_page.dart';
 // import 'package:flutter_qr/pages/maps_page.dart';
 import 'package:flutter_qr/widgets/custom_navigatorbar.dart';
 import 'package:flutter_qr/widgets/scan_button.dart';
+import 'package:provider/provider.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
@@ -39,7 +41,9 @@ class _HomePageBody extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
 
-    const currentIndex = 0;
+    final uiProvider = Provider.of<UiProvider>(context);
+
+    final currentIndex = uiProvider.selectedMenuOpt;
 
     switch( currentIndex){
       
