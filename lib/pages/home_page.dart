@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_qr/pages/address_page.dart';
 import 'package:flutter_qr/pages/maps_page.dart';
+
+import 'package:flutter_qr/providers/db_provider.dart';
 import 'package:flutter_qr/providers/ui_provider.dart';
 // import 'package:flutter_qr/pages/address_page.dart';
 // import 'package:flutter_qr/pages/maps_page.dart';
@@ -44,6 +46,9 @@ class _HomePageBody extends StatelessWidget {
     final uiProvider = Provider.of<UiProvider>(context);
 
     final currentIndex = uiProvider.selectedMenuOpt;
+
+    // TODO: Temporal   Data Base
+    DBProvider.db.database;
 
     switch( currentIndex){
       
