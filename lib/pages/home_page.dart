@@ -28,7 +28,7 @@ class HomePage extends StatelessWidget {
         ],
       ),
       // --- --- -- --- --- --- Body
-      body:  const _HomePageBody(),
+      body: const _HomePageBody(),
       // --- --- --- --- --- Button Navigation Bar
       bottomNavigationBar: const CustomNavigatorBar(),
       floatingActionButton: const ScanButton(),
@@ -36,30 +36,29 @@ class HomePage extends StatelessWidget {
     );
   }
 }
+
 // --- --- --- --- --- --- --- Home Page Body
 class _HomePageBody extends StatelessWidget {
   const _HomePageBody();
 
   @override
   Widget build(BuildContext context) {
-
     final uiProvider = Provider.of<UiProvider>(context);
 
     final currentIndex = uiProvider.selectedMenuOpt;
 
-    // TODO: Temporal   Data Base
-    DBProvider.db.database;
-
-    switch( currentIndex){
-      
+    final tempScan =  ScanModel(valor:'http://google.com');
+    DBProvider.db.newScan(tempScan);
+    
+    switch (currentIndex) {
       case 0:
-      return const MapsPage();
+        return const MapsPage();
 
-      case 1: 
-      return const AddressPage();
+      case 1:
+        return const AddressPage();
 
       default:
-      return const MapsPage();
+        return const MapsPage();
     }
   }
 }
