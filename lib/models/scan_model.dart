@@ -17,7 +17,6 @@ class ScanModel {
     this.id,
     this.type,
     required this.valor,
-
   }) {
     if (valor.contains('http')) {
       type = 'http';
