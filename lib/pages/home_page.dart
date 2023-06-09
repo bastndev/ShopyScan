@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_qr/pages/address_page.dart';
 import 'package:flutter_qr/pages/maps_page.dart';
+import 'package:flutter_qr/providers/scan_list_provider.dart';
 
 // import 'package:flutter_qr/providers/db_provider.dart';
 import 'package:flutter_qr/providers/ui_provider.dart';
@@ -46,12 +47,17 @@ class _HomePageBody extends StatelessWidget {
     final uiProvider = Provider.of<UiProvider>(context);
 
     final currentIndex = uiProvider.selectedMenuOpt;
+
+    // --- -- -- -- Use Scan  List Provider
+    final scanListProvider = Provider.of<ScanListProvider>(context, listen: false);
     
     switch (currentIndex) {
       case 0:
+      scanListProvider.loadingType('geo');
         return const MapsPage();
 
       case 1:
+      scanListProvider.loadingType('http');
         return const AddressPage();
 
       default:
