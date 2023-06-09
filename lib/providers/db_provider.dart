@@ -1,6 +1,7 @@
 // import 'dart:ffi';
 import 'dart:io';
 // import 'dart:js_interop';
+// import 'dart:js_interop';
 
 // ignore: depend_on_referenced_packages
 import 'package:path/path.dart';
@@ -105,6 +106,11 @@ class DBProvider {
           : [];
   } 
 
+  Future<int> updateScan(ScanModel newScan) async{
+    final db = await database;
+    final res = await db.update('Scans', newScan.toJson(), where: 'id = ?', whereArgs: [ newScan.id ]);
+    return res;
+  }
 }
 
 
