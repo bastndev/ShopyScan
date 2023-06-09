@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_qr/pages/address_page.dart';
 import 'package:flutter_qr/pages/maps_page.dart';
 
-import 'package:flutter_qr/providers/db_provider.dart';
+// import 'package:flutter_qr/providers/db_provider.dart';
 import 'package:flutter_qr/providers/ui_provider.dart';
 // import 'package:flutter_qr/pages/address_page.dart';
 // import 'package:flutter_qr/pages/maps_page.dart';
@@ -47,8 +47,8 @@ class _HomePageBody extends StatelessWidget {
 
     final currentIndex = uiProvider.selectedMenuOpt;
 
-    final tempScan =  ScanModel(valor:'http://google.com');
-    DBProvider.db.newScan(tempScan);
+    // final tempScan =  ScanModel(valor:'http://google.com');
+    // DBProvider.db.getAllScan().then( print );
     
     switch (currentIndex) {
       case 0:
