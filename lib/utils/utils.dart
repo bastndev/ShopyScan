@@ -13,7 +13,6 @@ launchURL(BuildContext context, ScanModel scan) async {
       throw 'Could not launch $url';
     }
   } else {
-    // ignore: avoid_print
-    print('geo!!');
+    Navigator.pushNamed(context, 'map', arguments: scan);
   }
 }
