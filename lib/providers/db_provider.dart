@@ -1,8 +1,4 @@
-// import 'dart:ffi';
 import 'dart:io';
-// import 'dart:js_interop';
-// import 'dart:js_interop';
-
 // ignore: depend_on_referenced_packages
 import 'package:path/path.dart';
 import 'package:path_provider/path_provider.dart';

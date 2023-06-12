@@ -1,13 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_qr/pages/address_page.dart';
 import 'package:flutter_qr/pages/maps_page.dart';
-// import 'package:flutter_qr/providers/db_provider.dart';
+
 import 'package:flutter_qr/providers/scan_list_provider.dart';
 
-// import 'package:flutter_qr/providers/db_provider.dart';
 import 'package:flutter_qr/providers/ui_provider.dart';
-// import 'package:flutter_qr/pages/address_page.dart';
-// import 'package:flutter_qr/pages/maps_page.dart';
+
 import 'package:flutter_qr/widgets/custom_navigatorbar.dart';
 import 'package:flutter_qr/widgets/scan_button.dart';
 import 'package:provider/provider.dart';

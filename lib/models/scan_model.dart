@@ -1,5 +1,7 @@
 import 'dart:convert';
 
+import 'package:google_maps_flutter/google_maps_flutter.dart' show LatLng;  
+
 // import 'package:flutter/material.dart';
 // import 'package:meta/meta.dart';
 
@@ -23,6 +25,15 @@ class ScanModel {
     } else {
       type = 'geo';
     }
+  }
+
+  LatLng getLatLng(){
+
+    final latLng = valor.substring(4).split(',');
+    final lat = double.parse(latLng[0]);
+    final lng = double.parse(latLng[1]);
+
+    return LatLng(lng, lat);
   }
 
   factory ScanModel.fromJson(Map<String, dynamic> json) => ScanModel(

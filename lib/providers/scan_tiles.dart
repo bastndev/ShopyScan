@@ -27,12 +27,13 @@ class ScanTiles extends StatelessWidget {
           Provider.of<ScanListProvider>(context, listen: false)
               .deleteScanId(scans[i].id);
         },
+        // --- -- --- --- -- --  Icon GEO and LOCATION 
         child: ListTile(
           leading: Icon(
           type == 'http'
-            ? Icons.home_outlined
-            : Icons.macro_off,
-          color: Colors.pink
+            ? Icons.location_on_outlined
+            : Icons.maps_ugc,
+          color: Colors.blueGrey
           ),
           title: Text(scans[i].valor),
           subtitle: Text(scans[i].id.toString()),

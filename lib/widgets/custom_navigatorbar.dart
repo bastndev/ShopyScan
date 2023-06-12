@@ -23,7 +23,7 @@ class CustomNavigatorBar extends StatelessWidget {
           label: 'Map'
         ),
         BottomNavigationBarItem(
-          icon: Icon(Icons.location_on_outlined),
+          icon: Icon(Icons.location_on),
           label: 'Directions'
         )
       ],

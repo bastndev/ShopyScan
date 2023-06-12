@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_qr/providers/scan_tiles.dart';
 
-
-
 class MapsPage extends StatelessWidget {
   const MapsPage({super.key});
 

@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
           'map': (_) => const MapPage(),
         },
         theme: ThemeData(
-          primarySwatch: Colors.pink,
+          primarySwatch: Colors.blueGrey,
         ),
       ),
     );
