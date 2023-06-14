@@ -4,11 +4,9 @@
 </p>
 <br/>
 <p align="center">
-  <a href="https://npmjs.com/package/vite"><img src="https://img.shields.io/npm/v/vite.svg" alt="npm package"></a>
-  <a href="https://nodejs.org/en/about/releases/"><img src="https://img.shields.io/node/v/vite.svg" alt="node compatibility"></a>
-  <a href="https://github.com/vitejs/vite/actions/workflows/ci.yml"><img src="https://github.com/vitejs/vite/actions/workflows/ci.yml/badge.svg?branch=main" alt="build status"></a>
-  <a href="https://pr.new/vitejs/vite"><img src="https://developer.stackblitz.com/img/start_pr_dark_small.svg" alt="Start new PR in StackBlitz Codeflow"></a>
-  <a href="https://chat.vitejs.dev"><img src="https://img.shields.io/badge/chat-discord-blue?style=flat&logo=discord" alt="discord chat"></a>
+  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/bastndev/ShopyScan?style=social">
+  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?logo=twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fbastndev">
+  <img alt="Discord" src="https://img.shields.io/discord/bgzvzP6aZH?color=blue&logo=discord" >
 </p>
 
 <h1 align="center"> ShopyScan 🎯</h1>
