@@ -4,9 +4,13 @@
 </p>
 <br/>
 <p align="center">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/bastndev?color=blue&label=%40bastndev&logo=twitter&style=plastic">
   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/bastndev/ShopyScan?style=social">
-  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?logo=twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fbastndev">
-  <img alt="Discord" src="https://img.shields.io/discord/bgzvzP6aZH?color=blue&logo=discord" >
+   <img alt="Discord" src="https://img.shields.io/discord/1109303962168999968?color=blue&label=Discord&logo=discord">
+   <img alt="App" src="   https://img.shields.io/badge/APP-v7.0.0-blue">
+
+
+   
 </p>
 
 <h1 align="center"> ShopyScan 🎯</h1>
