@@ -33,20 +33,3 @@
 
 <!-- Info -->
 > With this app you can scan and url maps ect what differentiates it from the others is the elegance pe papi.
-
-## Working :taco: 👷 ``:taco:``
-
-:alien: ``:alien:``
-
-:apple: ``:apple:``
-
-:recycle: ``:recycle:``
-
-:speech_balloon: ``:speech_balloon:``
-
-:brain: ``:brain: ``
-
-:octocat:  ``:octocat: ``
-
-<!-- add to Tag --> 
-<!-- Focus WTF -->
