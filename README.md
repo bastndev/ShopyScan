@@ -5,10 +5,15 @@
 </p>
 
 <!-- Title -->
-<h1 align="center"> ShopyScan 🎯</h1>
+<h1 align="center"> ShopyScan </h1>
 
 <!-- Version - Social Media - ect -->
 <div align="center">
+<!-- Twitter -->
+  <a href="https://twitter.com/bastndev" target="_blank">
+    <img width="32" alt="Twitter URL" src="./assets/logo/on5.gif">
+  </a>
+<!-- CI -->
   <a href="https://github.com/bastndev/ShopyScan/actions/new">
    <img src="https://github.com/vitejs/vite/actions/workflows/ci.yml/badge.svg?branch=main">
   </a>
@@ -24,10 +29,6 @@
   <a href="#">
     <img alt="iOS" src="https://img.shields.io/badge/App-iOS-orange">
   </a> 
-<!-- Twitter -->
- <a href="https://twitter.com/bastndev" target="_blank">
-    <img width="32" alt="Twitter URL" src="./assets/logo/on5.gif">
-  </a>
 </div>
 
 <!-- Info -->
