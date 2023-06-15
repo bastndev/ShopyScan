@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center"> ShopyScan 🎯</h1>
-<br/>
+
 <p align="center">
  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/bastndev/ShopyScan?style=social">
    <img alt="App" src="https://img.shields.io/badge/APP-v7.0.0-blue">
