@@ -26,7 +26,7 @@
   </a> 
 <!-- Twitter -->
  <a href="https://twitter.com/bastndev" target="_blank">
-    <img width="27" alt="Twitter URL" src="./assets/logo/on4.gif">
+    <img width="32" alt="Twitter URL" src="./assets/logo/on5.gif">
   </a>
 </div>
 
