@@ -23,7 +23,7 @@
 <!-- Version iOS -->
   <a href="#">
     <img alt="iOS" src="https://img.shields.io/badge/App-iOS-orange">
-  </a>'
+  </a> 
 <!-- Twitter -->
  <a href="https://twitter.com/bastndev" target="_blank">
     <img width="20" alt="Twitter URL" src="./assets/logo/on1.png">
