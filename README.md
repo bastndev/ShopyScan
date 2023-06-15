@@ -13,19 +13,19 @@
    <img src="https://github.com/vitejs/vite/actions/workflows/ci.yml/badge.svg?branch=main">
   </a>
 <!-- Version -->  
-  </a>
+  </a href="#">
      <img alt="App" src="https://img.shields.io/badge/APP-v7.0.0-blue">
   </a>
 <!-- Version Android -->
   <a href="#">
-    <img alt="Twitter URL" src="https://img.shields.io/badge/App-Android-%233ddb84">
+    <img alt="Android" src="https://img.shields.io/badge/App-Android-%233ddb84">
   </a>
 <!-- Version iOS -->
   <a href="#">
-    <img alt="Twitter URL" src="https://img.shields.io/badge/App-iOS-orange">
+    <img alt="iOS" src="https://img.shields.io/badge/App-iOS-orange">
   </a>'
 <!-- Twitter -->
- <a href="https://twitter.com/bastndev">
+ <a href="https://twitter.com/bastndev" target="_blank">
     <img width="20" alt="Twitter URL" src="./assets/logo/on1.png">
   </a>
 </div>
