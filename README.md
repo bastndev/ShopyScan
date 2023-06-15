@@ -2,6 +2,8 @@
     <img width="180" src="./assets/img/z33.png" alt="Vite logo">
   </a>
 </p>
+
+<h1 align="center"> ShopyScan 🎯</h1>
 <br/>
 <p align="center">
  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/bastndev/ShopyScan?style=social">
@@ -18,7 +20,6 @@
   </a>
 </p>
 
-<h1 align="center"> ShopyScan 🎯</h1>
 
 
 > With this app you can scan and url maps ect what differentiates it from the others is the elegance pe papi.
