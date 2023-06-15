@@ -27,7 +27,7 @@
   </a> 
 <!-- Twitter -->
   <a href="https://twitter.com/bastndev" target="_blank">
-    <img width="32" alt="Twitter URL" src="./assets/logo/on5.gif">
+    <img width="32" alt="Twitter URL" src="https://raw.githubusercontent.com/bastndev/ShopyScan/main/assets/logo/on5.gif">
   </a>
 </div>
 
