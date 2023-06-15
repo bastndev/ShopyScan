@@ -5,12 +5,12 @@
 <br/>
 <p align="center">
  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/bastndev/ShopyScan?style=social">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/bastndev?color=blue&label=%40bastndev&logo=twitter&style=plastic">
+  <a href="https://twitter.com/bastndev">
+    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=%20%2300acee&label=%40bastndev&logo=twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fbastndev">
+  </a>
    <img alt="Discord" src="https://img.shields.io/discord/1109303962168999968?color=blue&label=Discord&logo=discord">
    <img alt="App" src="https://img.shields.io/badge/APP-v7.0.0-blue">
-     <a href="https://twitter.com/bastndev">
-    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=%40bastndev&logo=twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fbastndev">
-  </a>
+   
 </p>
 
 <h1 align="center"> ShopyScan 🎯</h1>
