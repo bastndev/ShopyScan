@@ -21,13 +21,13 @@
     <img alt="Twitter URL" src="https://img.shields.io/badge/App-Android-%233ddb84">
   </a>
 <!-- Version iOS -->
-  <a href="https://twitter.com/bastndev">
+  <a href="#">
     <img alt="Twitter URL" src="https://img.shields.io/badge/App-iOS-orange">
   </a>'
 <!-- Twitter -->
- <a href="#">
+ <a href="https://twitter.com/bastndev">
     <img width="20" alt="Twitter URL" src="./assets/logo/on1.png">
-  </a>'
+  </a>
 </div>
 
 <!-- Info -->
