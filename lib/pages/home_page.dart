@@ -23,7 +23,7 @@ IconData _iconLight = Icons.sunny;
 IconData _iconDark = Icons.nights_stay;
 
 ThemeData _lightTheme = ThemeData(
-  primarySwatch: Colors.cyan,
+  primarySwatch: Colors.blueGrey,
   brightness: Brightness.light,
 );
 ThemeData _darkTheme = ThemeData(
