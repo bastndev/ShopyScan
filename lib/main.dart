@@ -30,8 +30,9 @@ class _MyAppState extends State<MyApp> {
         
         debugShowCheckedModeBanner: false,
         title: 'Qr Reader',
-        initialRoute: 'home',
+        initialRoute: '/',
         routes: {
+          '/': (_) => const SplashScreen(),
           'home': (_) => const SplashScreen(),
           'map': (_) => const MapPage(),
         },

@@ -19,12 +19,12 @@ class CustomNavigatorBar extends StatelessWidget {
       elevation: 0,
       items: const <BottomNavigationBarItem>[
         BottomNavigationBarItem(
-          icon: Icon(Icons.map),
-          label: 'Map'
+          icon: Icon(Icons.shape_line),
+          label: '@bastndev'
         ),
         BottomNavigationBarItem(
-          icon: Icon(Icons.location_on),
-          label: 'Directions'
+          icon: Icon(Icons.link),
+          label: 'Links'
         )
       ],
     );

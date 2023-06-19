@@ -31,9 +31,9 @@ class ScanTiles extends StatelessWidget {
         child: ListTile(
           leading: Icon(
           type == 'http'
-            ? Icons.location_on_outlined
-            : Icons.maps_ugc,
-          color: Colors.blueGrey
+            ? Icons.maps_ugc
+            : Icons.line_axis,
+          color: Colors.red
           ),
           title: Text(scans[i].valor),
           subtitle: Text(scans[i].id.toString()),
