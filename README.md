@@ -32,7 +32,7 @@
 </div>
 <!-- info -->
 
->This ``APP`` is only a practice, but in the same way I do it in the best way to have good practices [about me](https://solo.to/bastndev) .
+>This ``APP`` is only a practice, but in the same way I do it in the best way to have good practices. [@bastndev](https://solo.to/bastndev)
 
 <!-- ---Dependencies -->
 # Dependencies
