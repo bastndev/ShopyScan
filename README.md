@@ -34,4 +34,29 @@
 <!-- Info -->
 > With this app you can scan and [awesome website](https://example.com)  maps ect what differentiates it from the others is the elegance pe papi.
 
+>- Dark Mode
+
+  <div>
+    <img src="assets/scrshot/a1.png" alt="">
+  </div>
+
+>- Light Mode
+
+  <div>
+    <img src="assets/scrshot/on2.png" alt="">
+  </div>
+
+
+## Dependence
+>use this is dependencies for ejectum this is apk thank so much for visit this is site 
+
+```.dart
+  provider: ^6.0.5
+  flutter_barcode_scanner: ^2.0.0
+  path_provider: ^2.0.15
+  sqflite: ^2.2.8+4
+  url_launcher: ^6.1.11
+  google_maps_flutter: ^2.3.0
+  lottie: ^2.4.0
+```
 
