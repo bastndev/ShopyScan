@@ -30,11 +30,12 @@
     <img width="32" alt="Twitter URL" src="https://raw.githubusercontent.com/bastndev/ShopyScan/main/assets/logo/on5.gif">
   </a>
 </div>
+<!-- info -->
 
-<!-- Info -->
+> With this app you can scan and maps ect what differentiates it from the others is the elegance pe papi [< Link >](https://solo.to/bastndev) .
 
+<!-- ---Dependencies -->
 # Dependencies
-In this project use these dependencies, it is possible that it varies over time, just update the links below.
 <!-- Dependencies -->
 >- [🔗Link ](https://pub.dev/packages/provider)  $``flutter pub add lottie`` provider: ^6.0.5 
 >- [🔗Link ](https://pub.dev/packages/flutter_barcode_scanner) ```flutter pub add flutter_barcode_scanner``` flutter_barcode_scanner: ^2.0.0 
@@ -50,7 +51,6 @@ In this project use these dependencies, it is possible that it varies over time,
 dependencies:
   flutter:
     sdk: flutter
-
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
