@@ -32,8 +32,47 @@
 </div>
 
 <!-- Info -->
-> With this app you can scan and [awesome website](https://example.com)  maps ect what differentiates it from the others is the elegance pe papi.
+> With this app you can scan and [< all >](https://solo.to/bastndev)  maps ect what differentiates it from the others is the elegance pe papi.
 
+# Dependencies
+In this project use these dependencies, it is possible that it varies over time, just update the links below.
+<!-- Dependencies -->
+>- [🔗Link ](https://pub.dev/packages/provider) ```provider: ^6.0.5```   use this for model al $
+>- [🔗Link ](https://pub.dev/packages/flutter_barcode_scanner) ```flutter_barcode_scanner: ^2.0.0``` use this for model al 
+>- [🔗Link ](https://pub.dev/packages/path_provider) ```path_provider: ^2.0.15```   use this for model al 
+>- [🔗Link ](https://pub.dev/packages/sqflite/install) ```sqflite: ^2.2.8+4```   use this for model al 
+>- [🔗Link ](https://pub.dev/packages/google_maps_flutter) 
+```google_maps_flutter: ^2.3.0```   use this for model al 
+>- [🔗Link ](https://pub.dev/packages/lottie) 
+```lottie: ^2.4.0```   use this for model al 
+
+## pubspec.yaml
+<!-- PubsPec -->
+```dart
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+  provider: ^6.0.5
+  flutter_barcode_scanner: ^2.0.0
+  path_provider: ^2.0.15
+  sqflite: ^2.2.8+4
+  url_launcher: ^6.1.11
+  google_maps_flutter: ^2.3.0
+  lottie: ^2.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+```
+
+<!-- Dark Mode  -->
 >- Dark Mode
 
   <div>
@@ -45,18 +84,4 @@
   <div>
     <img src="assets/scrshot/on2.png" alt="">
   </div>
-
-
-## Dependence
->use this is dependencies for ejectum this is apk thank so much for visit this is site 
-
-```.dart
-  provider: ^6.0.5
-  flutter_barcode_scanner: ^2.0.0
-  path_provider: ^2.0.15
-  sqflite: ^2.2.8+4
-  url_launcher: ^6.1.11
-  google_maps_flutter: ^2.3.0
-  lottie: ^2.4.0
-```
 
