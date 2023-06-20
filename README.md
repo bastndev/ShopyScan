@@ -32,7 +32,7 @@
 </div>
 <!-- info -->
 
-> With this app you can scan and maps ect what differentiates it from the others is the elegance pe papi [< Link >](https://solo.to/bastndev) .
+>This ``APP`` is only a practice, but in the same way I do it in the best way to have good practices [about me](https://solo.to/bastndev) .
 
 <!-- ---Dependencies -->
 # Dependencies
