@@ -38,11 +38,11 @@
 # Dependencies
 <!-- Dependencies -->
 >- [🔗Link ](https://pub.dev/packages/provider)  $``flutter pub add lottie`` provider: ^6.0.5 
->- [🔗Link ](https://pub.dev/packages/flutter_barcode_scanner) ```flutter pub add flutter_barcode_scanner``` flutter_barcode_scanner: ^2.0.0 
->- [🔗Link ](https://pub.dev/packages/path_provider) ```flutter pub add path_provider``` path_provider: ^2.0.15
->- [🔗Link ](https://pub.dev/packages/sqflite) ```flutter pub add sqflite``` sqflite: ^2.2.8+4 
+>- [🔗Link ](https://pub.dev/packages/flutter_barcode_scanner) $```flutter pub add flutter_barcode_scanner``` flutter_barcode_scanner: ^2.0.0 
+>- [🔗Link ](https://pub.dev/packages/path_provider) $```flutter pub add path_provider``` path_provider: ^2.0.15
+>- [🔗Link ](https://pub.dev/packages/sqflite) $```flutter pub add sqflite``` sqflite: ^2.2.8+4 
 >- [🔗Link ](https://pub.dev/packages/google_maps_flutter) ```flutter pub add google_maps_flutter``` google_maps_flutter: ^2.3.0 
->- [🔗Link ](https://pub.dev/packages/lottie)```flutter pub add lottie``` lottie: ^2.4.0
+>- [🔗Link ](https://pub.dev/packages/lottie) $```flutter pub add lottie``` lottie: ^2.4.0
 
 ## pubspec.yaml
 <!-- PubsPec -->
