@@ -1,6 +1,6 @@
 <!-- logo IMG -->
 <p align="center">
-    <img width="180" src="./assets/img/z33.png" alt="Vite logo">
+    <img width="180" src="./assets/img/z33.png" alt="ShopyScan logo">
   </a>
 </p>
 
